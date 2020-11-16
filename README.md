@@ -1,6 +1,9 @@
 # Examenes
 Repositorio con el proyecto, para la materia de modelado de sistemas
 
+ASP.NETCORE
+MVC
+ENTITY FRAMEWORK
 Caso de uso: Corregir Examenes.
 Profesor: Sergio algorry
 Analista: tomas malvissi
